@@ -2,9 +2,9 @@
 
 A simple portfolio template for developer/designers built with React. 
 
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
+### [live preview](https://abhi6636.github.io/abhi-portfolio)
 
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
+[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://abhi6636.github.io/abhi-portfolio)
 
 ### Features
 
@@ -12,13 +12,12 @@ A simple portfolio template for developer/designers built with React.
 - Multi-Page Layout
 - Contact Form With EmailJs
 - React-Bootstrap
-- Edit Content From One Place
 
 ### Setup
 
 Get the code
 
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
+<pre>git clone https://github.com/abhi6636/abhi-portfolio.git</pre>
  
 Install required dependencies
 
@@ -27,12 +26,4 @@ Install required dependencies
 
 Start the server
 
-<pre>yarn start</pre>
-
-### More
-
-Modify pages content in  `src/content_option.js`.
-
-### Thanks
-
-If you like this portfolio template don't forget give it a ⭐ 
+<pre>npm start</pre>
