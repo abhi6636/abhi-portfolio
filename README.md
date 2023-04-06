@@ -4,7 +4,7 @@ A simple portfolio template for developer/designers built with React.
 
 ### [live preview](https://abhi6636.github.io/abhi-portfolio)
 
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://abhi6636.github.io/abhi-portfolio)
+[![react portfoiio]()](https://abhi6636.github.io/abhi-portfolio)
 
 ### Features
 
